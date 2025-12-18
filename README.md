@@ -1,8 +1,9 @@
 # Datos del grupo #
-Desarrollador> Daniela Loza
-Curso> 1-SOF-A
-Materia> Lógica de Programación - UIDE
-Fecha> 17-12-2025
+- Desarrollador> Daniela Loza
+- Curso> 1-SOF-A
+- Materia> Lógica de Programación - UIDE
+- Docente> Ing. Mónica Salazar
+- Fecha> 17-12-2025
 
 # Generador seguro de Contraseñas #
 Objetivo: Desarrollar un programa que permita generar contraseñas fuertes y seguras, ya sea de forma automática y aleatoria o mediante la participación del usuario en la creación de su propia contraseña, con el fin de proteger los datos personales en un entorno cada vez más digitalizado. 
